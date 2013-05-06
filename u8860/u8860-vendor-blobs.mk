@@ -63,9 +63,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8860/proprietary/lib/libchromatix_ov5647_sunny_preview.so:system/lib/libchromatix_ov5647_sunny_preview.so \
     vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1_ar.so:system/lib/libchromatix_s5k4e1_ar.so \
     vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
-    vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1gx_p_default_video.so:system/lib/libchromatix_s5k4e1gx_p_default_video.so \
-    vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1gx_p_preview.so:system/lib/libchromatix_s5k4e1gx_p_preview.so \
     vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
+	vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1gx_p_default_video.so:system/lib/libchromatix_s5k4e1gx_p_default_video.so \
+    vendor/huawei/u8860/proprietary/lib/libchromatix_s5k4e1gx_p_preview.so:system/lib/libchromatix_s5k4e1gx_p_preview.so \
     vendor/huawei/u8860/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8860/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/u8860/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
